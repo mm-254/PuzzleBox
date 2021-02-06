@@ -1,5 +1,6 @@
 # PuzzleBox
-A virtual scavenger hunt. Just for kicks. Since this is a scavenger hunt, I'll just let you figure out what it does?
+A virtual scavenger hunt, just for kicks. 
+Since this is a scavenger hunt, I'll just let you figure out what it does?
 
 Okay, maybe some hints: This is a whimsical jam of an Arduino controlled box lock (I'll leave you to figure out how exactly to install it; mine was cardboard and, well, a little flimsy...), some python video rendering for clues, and a hunt for an RFID key. The lock is a servo motor, the box talks through the LCD, some game tunes and flashes are implemented using a buzzer and LEDs. Videos rendered should be on your disc, and to go with these clues, you'll need cameos of Rome, London, and Egypt (yes, around the world but from home).
 
