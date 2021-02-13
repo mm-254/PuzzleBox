@@ -11,4 +11,4 @@ The rest, I'll leave to you to figure out.
 
 Bon Voyage!
 
-P.s.: For whatever reason I only have the python half of the code and will add the Arduino half when I fish it out of wherever it is. Sorry.
+
