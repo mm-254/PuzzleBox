@@ -1,4 +1,4 @@
-//Puzzle box/ safe; Virtual/stayHome Scavenger hunt
+//Puzzle box; Virtual/stayHome Scavenger hunt
 // Could be an educational toy/scavenger hunt aid, OR a personal safe
 //The user must have the key first (i.e. the RFID module) [could be hidden in a scavenger hunt scenario]
 //The key activates the box, which then presents a series of clues, set in cities around the world, to the user. The clues point to numbered solutions on the surface of the box. 
